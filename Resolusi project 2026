@@ -1,0 +1,5 @@
+
+- nodejs, prisma dan jest
+- menambahkan fitur eslint
+- menambahkan fitur redis
+- menambahkan front end menggunakan svelte
